@@ -20,3 +20,6 @@ A data science project to analyze WhatsApp chats and find:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🚀 Live App
+🔗https://whats-chat-analyser.streamlit.app/
