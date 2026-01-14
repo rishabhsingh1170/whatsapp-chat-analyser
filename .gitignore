@@ -1,0 +1,17 @@
+# virtual environment
+myenv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# data files
+*.csv
+*.txt
+
+# notebooks
+.ipynb_checkpoints/
